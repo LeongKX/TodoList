@@ -14,8 +14,7 @@ function App() {
       )
     );
   };
-
-  console.log(list);
+  
   return (
     <div className="container">
       <div
